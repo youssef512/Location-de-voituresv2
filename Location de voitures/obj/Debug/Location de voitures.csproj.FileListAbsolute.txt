@@ -9,3 +9,6 @@ c:\users\youssef\documents\visual studio 2015\Projects\Location de voitures\Loca
 c:\users\youssef\documents\visual studio 2015\Projects\Location de voitures\Location de voitures\obj\Debug\Location de voitures.exe
 c:\users\youssef\documents\visual studio 2015\Projects\Location de voitures\Location de voitures\obj\Debug\Location de voitures.pdb
 C:\Users\youssef\Documents\Visual Studio 2015\Projects\Location de voitures\Location de voitures\obj\Debug\Location_de_voitures.Home.resources
+C:\Users\oweis\Documents\Location-de-voituresv2\Location de voitures\bin\Debug\Location de voitures.exe.config
+C:\Users\oweis\Documents\Location-de-voituresv2\Location de voitures\obj\Debug\Location de voitures.exe
+C:\Users\oweis\Documents\Location-de-voituresv2\Location de voitures\obj\Debug\Location de voitures.pdb
